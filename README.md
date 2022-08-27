@@ -4,4 +4,4 @@ For Elziro web school Git course
 
 
 
-### Priject Notes
+### Project Notes
